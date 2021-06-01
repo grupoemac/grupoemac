@@ -1,9 +1,9 @@
-Bienvenido al Grupo EMAC: Enseñanza de las MAtemáticas y la Computación 
+El Grupo EMAC brinda soporte y acompañamiento para la realización de proyectos educativos, apoyados en las Tecnologías de la Información y Comunicación -TIC, con el propósito de generar nuevas forma de enseñar y de aprender matemáticas.
+
 - 👋 Apoyo a la Maestria en enseñanza de las Matemáticas
 - 👀 Apoyo a los Semilleros de Matemáticas 
 - 🌱 Apoyo a las Olimpiadas de Matemáticas 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 grupoemac/grupoemac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
