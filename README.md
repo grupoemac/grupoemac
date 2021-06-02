@@ -4,7 +4,7 @@ EMAC ofrece apoyo a programas de docencia y extensión de la Universidad de Anti
 - 📝 [Programas de pregrado](https://www.matematicasudea.co/matematicas.html)
 - 💻 [Maestria en Enseñanza de las Matemáticas](https://www.matematicasudea.co/mem/index.html)
 - 👀 [Semilleros de Matemáticas](https://www.matematicasudea.co/semilleros/index.html)
-- 🌱 [Olimpiadas de Matemáticas](https://olimpiadasudea.co/matematicas/)
+- 🏅 [Olimpiadas de Matemáticas](https://olimpiadasudea.co/matematicas/)
 
 
 <!---
