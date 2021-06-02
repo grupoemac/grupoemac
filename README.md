@@ -1,4 +1,4 @@
-El Grupo EMAC brinda soporte y acompañamiento para la realización de proyectos educativos, apoyados en las Tecnologías de la Información y Comunicación -TIC, con el propósito de generar nuevas forma de enseñar y de aprender matemáticas.
+El Grupo EMAC brinda soporte y acompañamiento para la realización de proyectos educativos, apoyados en las Tecnologías de la Información y Comunicación -TIC, con el propósito de generar nuevas formas de enseñar y de aprender matemáticas.
 
 EMAC apoya programas de docencia y de extensión ofrecidos por el [Instituto de Matemáticas](https://www.matematicasudea.co/index.html) de la [Universidad de Antioquia](http://www.udea.edu.co/):
 - 📝 [Programas de pregrado](https://www.matematicasudea.co/matematicas.html)
